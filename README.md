@@ -1,4 +1,3 @@
-# PythonCollections-Arrays-
 # Python Collections: List, Tuple, Set, Dictionary
 
 Python provides four main types of collections. Each has unique properties and use cases. Below you will find detailed explanations with examples.
